@@ -1,6 +1,6 @@
-Create database ProjetoMPM
+Create database ProjetoPEPS
 go 
-Use ProjetoMPM;
+Use ProjetoPEPS;
 go 
 
 -- cadastro produtos 
